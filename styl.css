@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+
+}
+.hy{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    
+}
+img{
+    border-radius: 1px;
+}
+p1{
+    text-align: center;
+    color: rgb(7, 7, 14);
+}
+table{
+    border: solid black;
+    border-collapse:collapse ;
+    border border-spacing: 2px;
+}
+th,td{
+    text-align: center;
+    border:solid black;
+    color: red;
+}
